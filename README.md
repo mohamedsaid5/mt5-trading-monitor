@@ -29,7 +29,7 @@ A Python-based monitoring system for MetaTrader 5 that sends real-time email not
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/mt5-trading-monitor.git
+   git clone https://github.com/mohamedsaid5/mt5-trading-monitor.git
    cd mt5-trading-monitor
    ```
 
